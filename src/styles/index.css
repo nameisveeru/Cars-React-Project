@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  padding: 5%;
+}
+.cars-container{
+  margin-top: 2%;
+}
+.cars-table{
+  width:100%;
+}
+.new-record-btn{
+  margin-top: 2%;
+  margin-bottom:2%;
+  float: right;
+}
